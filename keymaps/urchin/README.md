@@ -1,0 +1,3 @@
+# Urchin
+
+[Duckyb](https://github.com/duckyb)'s Urchin keyboard uses [nice!nano](https://nicekeyboards.com/nice-nano/) wireless controllers (and the genius [nice!view](https://nicekeyboards.com/nice-view) wireless displays), which run on [ZMK](https://zmk.dev). ZMK utilizes Github Actions to build the keyboard's software, therefore my Urchin's lives [here](https://github.com/adrian-fuertes/urchin), in its own repository.
