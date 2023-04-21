@@ -12,6 +12,11 @@ The repository currently contains my keymaps for:
     - Runs ZMK firmware built through Github Actions
     - Uses nice!nano wireless controllers and nice!view displays
     - See `keymaps/urchin`
+- [davidphilipbarr](https://github.com/davidphilipbarr)'s Ferris Sweep Keyboard
+    - Runs ZMK firmware built through Github Actions
+    - Uses nice!nano wireless controllers with no displays
+    - Extremely minimal design requiring no diodes
+    - See `keymaps/sweep`
 - [SplitKB](https://www.google.com/search?client=safari&rls=en&q=corne+aurora&ie=UTF-8&oe=UTF-8)'s Aurora Corne
     - Runs QMK firmware built locally
     - Uses the Elite-Pi controller (RP2040 based)
